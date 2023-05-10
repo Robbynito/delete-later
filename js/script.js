@@ -24,6 +24,11 @@ const data = [
     quote: `"Ka Kaaaaaaahw!"`,
     emoji: '',
     image: `url(assets/swoop3.webp)`
+  },
+  {
+    quote: `"Bird!"`,
+    emoji: '',
+    image: `url(assets/swoop1.webp)`
   }
 ];
 
