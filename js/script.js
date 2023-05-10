@@ -22,12 +22,12 @@ const data = [
   },
   {
     quote: `"Ka Kaaaaaaahw!"`,
-    emoji: '',
+    emoji: '🦅',
     image: `url(assets/swoop3.webp)`
   },
   {
-    quote: `"Bird!"`,
-    emoji: '',
+    quote: `"I am in unnecessary danger"`,
+    emoji: '👁️👄👁️',
     image: `url(assets/swoop1.webp)`
   }
 ];
